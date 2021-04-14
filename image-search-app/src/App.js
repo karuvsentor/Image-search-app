@@ -8,6 +8,8 @@ import './App.css';
 
 function App() {
 
+  
+
   const [data, setData] = useState([]);
   const [query, setQuery] = useState("code");
   const [page, setPage] = useState(1);
